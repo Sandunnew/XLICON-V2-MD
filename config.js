@@ -8,14 +8,14 @@ import axios from 'axios'
 
 global.owner = [
   ['918360234087', 'WHITE', true], 
-  ['233208179431', 'Abraham Dwamena', true],
-  ['923184070915', '𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 -(𝘼𝙝𝙢𝙢𝙞)', true], 
-  ['94789481495', '𝙼𝚉𝙽 𝙺𝙸𝙽𝙶 ⚡', true],
-  ['233533763772', 'Abraham Dwamena2', true],
+  ['94757101708', 'MR|SADU', true],
+  ['94766910147', 'MR|SADU', true], 
+  ['', 'MR|SADU', true],
+  ['', 'MR|SADU', true],
   
 ] //Number of owners
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "94757101708" //put your bot number here
 
 global.mods = ['923184070915', '94789481495', '923184474176','233533763772','233208179431'] 
 global.prems = ['923184070915', '233208179431', '94789481495', '918360234087','233533763772']
@@ -54,17 +54,17 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'XLICON-V2'
+global.botname = 'KING INZANE'
 global.premium = 'true'
-global.packname = 'XLICON TEAM' 
-global.author = '@XLICON-V2' 
+global.packname = 'KING INZANE' 
+global.author = '@MR|SADU' 
 global.menuvid = 'https://telegra.ph/file/325630f66abc968eda8e2.mp4'
 global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
 global.dygp = 'https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
 global.fgyt = 'https://youtube.com/@s4salmanyt'
 global.fgpyp = 'https://youtube.com/@s4salmanyt'
-global.fglog = 'XLICON.jpg' 
+global.fglog = 'https://telegra.ph/file/378de17a77df3495374c1.jpg' 
 global.thumb = fs.readFileSync('./XLICON.jpg')
 
 
